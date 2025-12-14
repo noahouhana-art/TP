@@ -1,4 +1,4 @@
-# TP AlgoBox – Ouhana & Frugier
+# TP AlgoBox – Ouhana & Frugier & Martrand 
 
 ## 📌 Description
 Ce dépôt contient les fichiers AlgoBox réalisés dans le cadre du TP.  
@@ -38,3 +38,4 @@ TP/
 ## 🔗 Liens GitHub
 - Dépôt final du TP : https://github.com/noahouhana-art/TP  
 - Dépôt personnel de Mathis : https://github.com/Mathisfr1/mathi
+
