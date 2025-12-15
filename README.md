@@ -34,12 +34,13 @@ TP/
 ## 🤝 Collaboration
 - **Noah Ouhana** : création du dépôt, organisation, ajout du premier AlgoBox.  
 - **Mathis Frugier** : manipulation Git, ajout de l’AlgoBox, commit & push.
-- **Henry Matrand** : manipulation Git, 
+- **Henry Matrand** : manipulation Git, finalisation dans AlgoBox
 
 ---
 
 ## 🔗 Liens GitHub
 - Dépôt final du TP : https://github.com/noahouhana-art/TP  
 - Dépôt personnel de Mathis : https://github.com/Mathisfr1/mathi
+
 
 
