@@ -40,7 +40,8 @@ TP/
 
 ## 🔗 Liens GitHub
 - Dépôt final du TP : https://github.com/noahouhana-art/TP  
-- Dépôt personnel de Mathis : https://github.com/Mathisfr1/mathi
+
+
 
 
 
